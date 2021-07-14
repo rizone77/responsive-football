@@ -30,7 +30,7 @@ body{
     
      
 }
-
+/* Top Banner Style */
 .top-banner{
 
     display: grid;
@@ -46,6 +46,7 @@ body{
     margin-left: 102px;
     margin-right: 120px; 
 } 
+/* Button Style */
 .button{
     width: 168px;
     height: 35px;
@@ -60,7 +61,7 @@ body{
    
     
 }
-
+ /* button Hover style */
 .button:hover{
     background-color: rgb(0, 115, 255);
     font-size: 20px; 
@@ -224,7 +225,7 @@ body{
 }
     
 
-
+ /* Total Player Details */
 .all-players{
     margin-top: 70px;
     margin-left: 180px;
@@ -270,7 +271,7 @@ body{
 }
 
 
-
+/* Football Logo */
 
 .logo img{
     width: 483.87px;
@@ -278,12 +279,13 @@ body{
      margin-left: 36%;
      margin-top: 40%;
 }
+/* Social Icon */
 .social-icon{
     text-align: center;
     
      
     
-    
+    /* Font Awesome */
 }
 .fa-instagram, .fa-twitter, .fa-linkedin, .fa-youtube{
     display: inline-block;
@@ -295,6 +297,7 @@ body{
     
    
 }
+ /* Footer Style */
 .copyright{
     
     font-size: 18px;
