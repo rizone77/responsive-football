@@ -14,7 +14,7 @@ body{
 
 
 
-
+/* Top Bar Style */
 .container{
     background-color: #2D25A0;
     width: 1440px;
@@ -64,8 +64,9 @@ body{
  /* button Hover style */
 .button:hover{
     background-color: rgb(0, 115, 255);
-    font-size: 20px; 
-    border-radius: 13px;
+    font-size: 22px; 
+    border-radius: 22px;
+    transition: 0.5s;
 
 }
 .button a{
